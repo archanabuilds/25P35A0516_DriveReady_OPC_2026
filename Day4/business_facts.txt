@@ -1,0 +1,22 @@
+BUSINESS: Travel and Tour Booking Platform
+
+1. The platform provides travel package information.
+2. Customers can explore different destinations.
+3. Customers can submit booking enquiries.
+4. Package prices depend on the destination.
+5. Travel dates are required for booking enquiries.
+6. Customers must provide the number of travellers.
+7. Booking enquiries require a customer name.
+8. Goa is one of the sample destinations.
+9. Kerala is one of the sample destinations.
+10. Hyderabad is one of the sample destinations.
+11. Package prices used in the demo are sample prices.
+12. Actual travel availability must be confirmed.
+13. Customers should verify their travel dates.
+14. Customers should verify package details.
+15. Booking enquiries are stored in Google Sheets.
+16. Each enquiry is saved as a separate row.
+17. Invalid traveller counts are rejected.
+18. Unsupported destinations are rejected.
+19. Pydantic validates booking information.
+20. The assistant can ask customers for missing details.
